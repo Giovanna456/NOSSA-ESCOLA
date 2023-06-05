@@ -1,0 +1,143 @@
+.cabeçalho{
+    display: inline-flex;
+}
+
+.mostarda{
+    background-color:#B7730E ;
+    width: 900px;
+    height: 297px;
+    display: flex;
+    justify-content: center;
+}
+
+.mostarda-imagem{
+width: 233.53px;
+height: 229.74px;
+padding: 34px;
+}
+
+.cinza{
+    background-color:#B0AFAF;
+    width: 1020px;
+    height: 297px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 64px;
+}
+.cinza-texto{
+    display: inline-flex;
+    align-items: center;
+    margin: 77px;
+    text-align: center;
+} 
+.titulo{
+    font-family:'Inter', sans-serif;
+    font-weight: 900;
+    font-size: 91px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.texto{
+    font-family:'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: justify;
+    margin: 35px;
+    width: 1800px;
+    height: 300px;
+}
+
+.estrutura{
+    display: grid; 
+    grid-template-columns: 915px 915px;
+    row-gap: 90px;
+    column-gap: 35px;
+    margin: 20px;
+    padding-bottom: 27px;
+
+}
+.fachada_imagem{
+    width: 930px;
+
+}
+
+.laboratório_imagem{
+    width: 930px;
+}
+
+.quadra_esportiva_imagem{
+    width: 930px;
+}
+
+.pátio_descoberto_imagem{
+    width: 930px;
+}
+
+.fachada_identificação{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size:36px;
+    text-align: center;
+}
+
+.laboratório_identificação{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size:36px;
+    text-align: center;
+}
+
+.Quadra_Esportiva_identificação{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size:36px;
+    text-align: center;
+}
+
+.pátio_descoberto_identificação{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size:36px;
+    text-align: center;
+}
+
+.rodapé{
+    background-color: black;
+    width: 1860px;
+    height: 172px;
+    display: grid;
+    grid-template-columns: 230px 34px 1900px;
+    padding: 20px;
+}
+
+.link{
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900px;
+    font-size:32px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+a:link{
+    color: #FFFFFF;
+}
+.icone{
+  display:grid;
+  row-gap:12px;
+  padding-left:50px;
+  border-top:2px;
+}
+.informações{
+    color: #B7730E;
+    font-family:'Inter',sans-serif ;
+    font-weight: 300px;
+    font-size:28px;
+    display:grid;
+    row-gap:20px;
+    padding-left:60px;
+    padding-top:2px;
+    width: 1127px;; 
+}
